@@ -35,7 +35,17 @@ Without targeted intervention, the productivity dividend will accrue disproporti
 
 ## Policy Options
 
-*[draft pending]*
+| Option | Description | Equity | Productivity | Fiscal Cost | Feasibility |
+|---|---|---|---|---|---|
+| **A. AI Skills Entitlement** | Subsidised micro-credentials in AI literacy via TAFE/VET; 40 hours per worker per 5 years | High | High | Medium ($600m/4yr) | High |
+| **B. Workforce Transition Insurance** | Income support + reskilling stipend for workers displaced by verified AI restructuring | Very High | Medium | Medium-High ($550m/4yr) | Medium |
+| **C. Mandatory AI Workplace Disclosure** | Employers >50 staff must disclose material AI deployments and consult workers | Medium | Low-Medium | Low ($50m/4yr) | Medium |
+| **D. Universal Basic Income trial** | Pilot UBI in 2 regions to buffer broad disruption | High (short-term) | Low | Very High ($2bn+) | Low |
+| **E. Status quo + voluntary guardrails** | Rely on existing frameworks (current National AI Plan position) | Low | Medium | Nil | High |
+
+**Evaluation criteria:** equity (distributional fairness), productivity (does it support gains?), fiscal cost, and political/administrative feasibility.
+
+Option D scores highly on equity in theory but is fiscally untenable and politically infeasible in the current term. Option E underweights distributional risks the JSA report flags explicitly. Options A, B and C are complementary rather than substitutable — together they address skills, displacement *and* workplace governance.
 
 ## Recommended Package and Implementation Plan
 
