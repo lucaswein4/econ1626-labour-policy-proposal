@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-*[draft pending]*
+Generative AI (Gen AI) is reshaping Australian work faster than any general-purpose technology since the internet. Jobs and Skills Australia's 2025 *Generative AI Capacity Study* finds that AI is currently augmenting more jobs than it replaces, but exposure is uneven: clerical, administrative and junior knowledge-work roles face the largest task-level disruption, while regional and lower-income workers risk being left behind in the upskilling response. The Productivity Commission estimates AI could add over $116 billion to the Australian economy in the next decade, yet these gains are not automatic and will widen inequality without active policy. This brief recommends a three-part *augmentation-first* package: (1) a national AI Skills Entitlement embedded in the VET system, (2) a Workforce Transition Insurance scheme for displaced workers, and (3) mandatory AI Workplace Disclosure standards. Together they aim to capture productivity gains while protecting equity, with full rollout costed at approximately $1.4 billion over four years.
 
 ## Problem Definition and Context
 
@@ -49,12 +49,46 @@ Option D scores highly on equity in theory but is fiscally untenable and politic
 
 ## Recommended Package and Implementation Plan
 
-*[draft pending]*
+I recommend implementing **Options A, B and C as an integrated package**.
+
+**Year 1 (2026–27):** Legislate the AI Skills Entitlement; pilot Workforce Transition Insurance in two industries (financial services, retail); release Workplace Disclosure consultation paper. *Lead:* Department of Employment and Workplace Relations, with JSA as evidence partner. *Cost:* ~$200m.
+
+**Year 2 (2027–28):** National rollout of Skills Entitlement through TAFE network; Disclosure standards legislated under existing Fair Work framework (consistent with the Productivity Commission's preference for using existing regulatory structures). *Cost:* ~$400m.
+
+**Years 3–4 (2028–30):** Transition Insurance scaled nationally; first independent evaluation. *Cost:* ~$800m.
+
+**Total package: ~$1.4 billion over four years**, partly offset by reduced JobSeeker outlays from faster transitions.
+
+**Key Performance Indicators:**
+
+1. ≥60% of working-age Australians complete at least one accredited AI literacy module by 2030
+2. Median time-to-reemployment for AI-displaced workers ≤6 months
+3. Reduction in AI-exposure inequality (measured as gap in upskilling participation between top and bottom income quintiles)
+4. Productivity contribution from AI tracked through ABS multi-factor productivity statistics
 
 ## Risks and Mitigations
 
-*[draft pending]*
+**Risk 1: Deadweight loss in skills funding.** Workers who would have upskilled anyway absorb subsidies. *Mitigation:* target the entitlement via a means-tested co-contribution and prioritise high-exposure occupations identified in JSA's exposure dashboard.
+
+**Risk 2: Disclosure regime becomes compliance theatre.** *Mitigation:* outcomes-based rather than checklist-based design (consistent with the PC's recommended approach to AI regulation); spot-audits by the Fair Work Ombudsman.
+
+**Risk 3: Insurance moral hazard.** Employers may classify ordinary restructures as "AI displacement" to access subsidised transitions. *Mitigation:* require employer co-contribution and independent verification by JSA.
+
+**Risk 4: Pace of technological change outstrips curriculum.** *Mitigation:* short-cycle micro-credential model with annual refresh, delivered through industry-led Jobs and Skills Councils — not legacy 3-year qualification cycles.
+
+## Conclusion
+
+Australia faces a generational choice. The augmentation-first package outlined here treats AI as a productivity opportunity *and* an equity risk simultaneously — consistent with the labour-economics evidence that technology shocks raise aggregate output while redistributing its gains. Doing nothing is not neutral: it is a choice to let market forces determine winners and losers. A modest, well-targeted package can capture the productivity dividend while ensuring the transition does not entrench disadvantage.
 
 ## References
 
-*[draft pending]*
+- Acemoglu, D. (2024). *The Simple Macroeconomics of AI*. NBER Working Paper 32487.
+- Acemoglu, D. and Restrepo, P. (2019). 'Automation and New Tasks', *Journal of Economic Perspectives*, 33(2).
+- Australian Government (2025). *National AI Plan*. Canberra.
+- Brynjolfsson, E., Li, D. and Raymond, L. (2023). 'Generative AI at Work', NBER Working Paper 31161.
+- Jobs and Skills Australia (2025). *Our Gen AI Transition: Implications for Work and Skills*. Canberra.
+- Jobs and Skills Australia (2025). *Jobs and Skills Report 2025: Connecting for Impact*. Canberra.
+- Productivity Commission (2025). *Harnessing Data and Digital Technology — Final Report*. Canberra.
+- PwC Australia (2025). *AI Jobs Barometer: The Fearless Future*.
+
+*Word count: ~1,200 (body, excluding references and headers)*
