@@ -1,8 +1,11 @@
 # AI and the Australian Workforce: A Policy Proposal for an Augmentation-First Transition
 
 **To:** Deputy Secretary, Jobs and Skills Australia
+
 **From:** Lucas Weinbach, ECON1626 Economics of Labour Markets, RMIT University
+
 **Date:** May 2026
+
 **Subject:** Managing the Generative AI transition in the Australian labour market
 
 ---
